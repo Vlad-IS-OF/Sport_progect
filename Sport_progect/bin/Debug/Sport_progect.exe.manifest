@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sport_progect.exe" size="1666560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sport_progect.exe" size="1667072">
       <assemblyIdentity name="Sport_progect" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+226FsMQoTN7Hf70JHDaIMyVTTn1YxW87Y3ejUIvk8c=</dsig:DigestValue>
+        <dsig:DigestValue>+e2zhKXGNVE0LXUpR1BWRi1Q+3ZvKLwMdhd+PIBS4p0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -186,13 +186,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Sport_progect.exe.config" size="771">
+  <file name="Sport_progect.exe.config" size="1453">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tzrZXZxp/Y/RPURLgAl0ITswI81RmVUutgWEwi2aPzU=</dsig:DigestValue>
+      <dsig:DigestValue>r2ts0qpLgBvQSGORUw/Vs+o4VnfNNXCcafkqzd1pCn0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="title.ico" size="16958">
