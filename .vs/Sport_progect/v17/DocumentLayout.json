@@ -10,12 +10,12 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sport_progect||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\sport_progect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|solutionrelative:sport_progect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\sport_progect\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|solutionrelative:sport_progect\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\sport_progect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|solutionrelative:sport_progect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A81CC293-15C5-4D4F-B58B-04C14CBEACE1}|Sport_progect\\Sport_progect.csproj|D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\sport_progect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,11 +33,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -47,7 +55,7 @@
               "RelativeDocumentMoniker": "Sport_progect\\Sport_progect.csproj",
               "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\Sport_progect.csproj",
               "RelativeToolTip": "Sport_progect\\Sport_progect.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2023-12-21T13:23:02.225Z"
             },
             {
@@ -58,19 +66,20 @@
               "RelativeDocumentMoniker": "Sport_progect\\login.cs",
               "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\login.cs",
               "RelativeToolTip": "Sport_progect\\login.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDEAAAAKAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-15T04:17:30.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\login.cs",
               "RelativeDocumentMoniker": "Sport_progect\\login.cs",
-              "ToolTip": "G:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Sport_progect\\login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-15T04:17:31.427Z"
             },
             {
@@ -97,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Sport_progect\\Sport_progect\\Program.cs",
               "RelativeDocumentMoniker": "Sport_progect\\Program.cs",

@@ -35,7 +35,7 @@ namespace Sport_progect
             string login = Log.Text;
             string pass = Pas.Text;
 
-            var add = ConfigurationManager.AppSettings["adres"];
+            /*var add = ConfigurationManager.AppSettings;*/
 
 
             try
