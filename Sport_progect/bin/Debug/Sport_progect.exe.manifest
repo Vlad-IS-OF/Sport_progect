@@ -134,7 +134,11 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+<<<<<<< Updated upstream
         <dsig:DigestValue>+226FsMQoTN7Hf70JHDaIMyVTTn1YxW87Y3ejUIvk8c=</dsig:DigestValue>
+=======
+        <dsig:DigestValue>qZtSGAoHf2pj+D8WZF1drij3OgJFmPQ/D3o0sjfNaDw=</dsig:DigestValue>
+>>>>>>> Stashed changes
       </hash>
     </dependentAssembly>
   </dependency>
@@ -186,13 +190,21 @@
       </hash>
     </dependentAssembly>
   </dependency>
+<<<<<<< Updated upstream
   <file name="Sport_progect.exe.config" size="771">
+=======
+  <file name="Sport_progect.exe.config" size="1469">
+>>>>>>> Stashed changes
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+<<<<<<< Updated upstream
       <dsig:DigestValue>tzrZXZxp/Y/RPURLgAl0ITswI81RmVUutgWEwi2aPzU=</dsig:DigestValue>
+=======
+      <dsig:DigestValue>A2MAZLZKKsMxecAcv/SsHazxcwIrJmdieHlkpn9cpS8=</dsig:DigestValue>
+>>>>>>> Stashed changes
     </hash>
   </file>
   <file name="title.ico" size="16958">

@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="adres" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">TEST HELLO</Value>
     </Setting>
   </Settings>
 </SettingsFile>
